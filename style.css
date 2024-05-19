@@ -1,0 +1,14 @@
+.form{
+   
+}
+.form h5{
+    margin-left: 95px;
+    font-size: 30px;
+}
+form button:hover{
+    border: 1px solid black;
+    cursor: pointer;
+    background-color: transparent;
+    color: black;
+    transition: 1s;
+}
